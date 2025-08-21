@@ -12,7 +12,7 @@ Each project is organized into its own folder with:
 1. **[Task 1: Data Analysis & Visualization Pipeline](./Task_1_Data_Analysis_Visualization/)**
    - Exploratory Data Analysis (EDA) and visualization using Pandas, Matplotlib, and Seaborn.
 
-2. **[Task 2: Titanic Dataset Preprocessing & Feature Engineering](./Task_2_Titanic_Preprocessing)**
+2. **[Task 2: Titanic Dataset Preprocessing & Feature Engineering](./task02_titanic_preprocessing_feature_engineering/)**
    - Data cleaning, encoding, scaling, and feature creation (Title & FamilySize).
 
 3. **[Task 3: Linear Regression Model Development](./Task_3_Linear_Regression)**
