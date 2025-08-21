@@ -24,7 +24,7 @@ Each project is organized into its own folder with:
 5. **[Task 5: Hyperparameter Optimization](./task05_hyperparameter_optimization/)**
    - Grid Search & Random Search for Logistic Regression / Decision Tree.
 
-6. **[Task 6: Customer Segmentation with K-Means](./Task_6_KMeans_Clustering)**
+6. **[Task 6: Customer Segmentation with K-Means](./task06_customer_segmentation_kmeans/)**
    - Mall Customers dataset clustering with Elbow & Silhouette methods.
 
 7. **[Task 7: Feature Optimization using RFE](./Task_7_RFE_Feature_Selection)**
