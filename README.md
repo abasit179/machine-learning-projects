@@ -18,7 +18,7 @@ Each project is organized into its own folder with:
 3. **[Task 3: Linear Regression Model Development](./task03_linear_regression_model/)**
    - Predictive modeling with regression metrics and visualization.
 
-4. **[Task 4: Logistic Regression Model for Binary Classification](./Task_4_Logistic_Regression)**
+4. **[Task 4: Logistic Regression Model for Binary Classification](./task04_logistic_regression_classification/)**
    - Titanic survival prediction with metrics, confusion matrix, and ROC-AUC.
 
 5. **[Task 5: Hyperparameter Optimization](./Task_5_Hyperparameter_Optimization)**
