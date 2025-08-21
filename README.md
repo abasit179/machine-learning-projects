@@ -27,7 +27,7 @@ Each project is organized into its own folder with:
 6. **[Task 6: Customer Segmentation with K-Means](./task06_customer_segmentation_kmeans/)**
    - Mall Customers dataset clustering with Elbow & Silhouette methods.
 
-7. **[Task 7: Feature Optimization using RFE](./Task_7_RFE_Feature_Selection)**
+7. **[Task 7: Feature Optimization using RFE](./task07_feature_optimization_rfe/)**
    - Recursive Feature Elimination to select best features and compare performance.
 
 ---
