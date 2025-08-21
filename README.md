@@ -9,7 +9,7 @@ Each project is organized into its own folder with:
 
 ## 📂 Projects
 
-1. **[Task 1: Data Analysis & Visualization Pipeline]()**
+1. **[Task 1: Data Analysis & Visualization Pipeline](./Task_1_Data_Analysis_Visualization/)**
    - Exploratory Data Analysis (EDA) and visualization using Pandas, Matplotlib, and Seaborn.
 
 2. **[Task 2: Titanic Dataset Preprocessing & Feature Engineering](./Task_2_Titanic_Preprocessing)**
