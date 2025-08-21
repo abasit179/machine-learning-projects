@@ -21,7 +21,7 @@ Each project is organized into its own folder with:
 4. **[Task 4: Logistic Regression Model for Binary Classification](./task04_logistic_regression_classification/)**
    - Titanic survival prediction with metrics, confusion matrix, and ROC-AUC.
 
-5. **[Task 5: Hyperparameter Optimization](./Task_5_Hyperparameter_Optimization)**
+5. **[Task 5: Hyperparameter Optimization](./task05_hyperparameter_optimization/)**
    - Grid Search & Random Search for Logistic Regression / Decision Tree.
 
 6. **[Task 6: Customer Segmentation with K-Means](./Task_6_KMeans_Clustering)**
