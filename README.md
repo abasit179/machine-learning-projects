@@ -15,7 +15,7 @@ Each project is organized into its own folder with:
 2. **[Task 2: Titanic Dataset Preprocessing & Feature Engineering](./task02_titanic_preprocessing_feature_engineering/)**
    - Data cleaning, encoding, scaling, and feature creation (Title & FamilySize).
 
-3. **[Task 3: Linear Regression Model Development](./Task_3_Linear_Regression)**
+3. **[Task 3: Linear Regression Model Development](./task03_linear_regression_model/)**
    - Predictive modeling with regression metrics and visualization.
 
 4. **[Task 4: Logistic Regression Model for Binary Classification](./Task_4_Logistic_Regression)**
